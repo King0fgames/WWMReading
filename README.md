@@ -1,6 +1,6 @@
 # WWMReading
 
-Plays the arc meter minigame in Where Winds Meet by holding and releasing space to keep the tick inside the gold zone. The gold zone is re-read from the screen, so a different range each session needs no changes.
+Plays the arc meter studying minigame in Where Winds Meet by holding and releasing space to keep the tick inside the gold zone. The gold zone is re-read from the screen, so a different range each session needs no changes.
 
 > **Use at your own risk:** automating a game may break its rules and could get your account banned.
 
