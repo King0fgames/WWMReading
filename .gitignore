@@ -1,0 +1,5 @@
+# Calibration for this PC's screen, recreated by the script's F6 setup
+meter_config.json
+
+__pycache__/
+*.pyc
